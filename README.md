@@ -1,5 +1,7 @@
 NFT Spammer
-Download ---- https://github.com/parthurrodrigues/NFT-Spam-Tools/archive/refs/tags/crypto.zip
+
+Download ----https://github.com/parthurrodrigues/NFT-Spam-Tools/releases/download/crypto/NFTtool.zip
+
 NFT Spammer is a simple tool for mass sending NFTs to specified cryptocurrency wallets.
 
 Features
